@@ -22,6 +22,7 @@ Este tipo de licencias, por lo general, no permiten que el software sea modifica
 * Licencia de software de código abierto permisivas
 
 Se puede crear una obra derivada sin que esta tenga obligación de protección alguna. Ejemplos:
+
 * Academic Free License v.1.2.
 * Apache Software License v.1.1
 * Artistic License v.2.0
@@ -42,6 +43,7 @@ Se puede crear una obra derivada sin que esta tenga obligación de protección a
 * Robustas fuertes
 
 Las licencias de software de código abierto robustas fuertes o con copyleft fuerte, contienen una cláusula que obliga a que las obras derivadas o modificaciones que se realicen al software original se deban licenciar bajo los mismos términos y condiciones de la licencia original. Ejemplos:
+
 * Common Public License v.1.0.
 * GNU General Public License v.2.0.
 * GNU General Public License v.3.0.
@@ -62,3 +64,7 @@ Las licencias de software de código abierto robustas débiles, con copyleft dé
 * Apple Source License v.2.0
 * CDDL.
 * EUPL.
+
+## Referencias
+
+Wikipedia (no date) Licencia de software. Disponible en: https://es.wikipedia.org/wiki/Licencia_de_software#Clasificaci%C3%B3n_de_las_licencias_de_software (Accessed: March 1, 2023). 
