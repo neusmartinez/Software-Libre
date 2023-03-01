@@ -67,4 +67,4 @@ Las licencias de software de código abierto robustas débiles, con copyleft dé
 
 ## Referencias
 
-Wikipedia (no date) Licencia de software. Disponible en: https://es.wikipedia.org/wiki/Licencia_de_software#Clasificaci%C3%B3n_de_las_licencias_de_software (Accessed: March 1, 2023). 
+"Licencia de software", Wikipedia. Disponible en: https://es.wikipedia.org/wiki/Licencia_de_software#Clasificaci%C3%B3n_de_las_licencias_de_software (Acceso: March 1, 2023). 
