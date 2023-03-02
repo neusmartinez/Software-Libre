@@ -1,4 +1,4 @@
-# Software Libre
+# SOFTWARE LIBRE
 
 El software libre es un software cuyo código fuente puede ser estudiado, modificado, y utilizado libremente con cualquier finalidad y redistribuido con cambios o mejoras sobre él.
 
@@ -9,17 +9,17 @@ El software libre es un software cuyo código fuente puede ser estudiado, modifi
 3. La libertad de **distribuir** copias del programa, con lo cual se puede ayudar a otros usuarios (distribución). 
 4. La libertad de **mejorar** el programa y hacer públicas esas mejoras a los demás, de modo que toda la comunidad se beneficie (mejora).
 
-## Licencias de software
+# LICENCIAS DE SOFTWARE
 
 Una licencia de software es un **contrato** entre el **licenciante** (autor/titular de los derechos de explotación/distribución) y el licenciatario (usuario consumidor, profesional o empresa) del programa informático, para utilizarlo cumpliendo una serie de términos y condiciones establecidas dentro de sus cláusulas, es decir, es un conjunto de **permisos** que un desarrollador le puede otorgar a un usuario en los que tiene la posibilidad de distribuir, usar o modificar el producto bajo una licencia determinada.
 
-# Tipos de licencias de software
+## Tipos de licencias de software
 
-## Licencia de software de código cerrado
+### Licencia de software de código cerrado
 
 Este tipo de licencias, por lo general, no permiten que el software sea modificado, desensamblado, copiado o distribuido de formas no especificadas en la propia licencia (piratería de software), regula el número de copias que pueden ser instaladas e incluso los fines concretos para los cuales puede ser utilizado. La mayoría de estas licencias limitan fuertemente la responsabilidad derivada de fallos en el programa. 
 
-## Licencia de software de código abierto _permisivas_
+### Licencia de software de código abierto permisivas
 
 Se puede crear una obra derivada sin que esta tenga obligación de protección alguna. Ejemplos:
 
@@ -38,7 +38,7 @@ Se puede crear una obra derivada sin que esta tenga obligación de protección a
 * PHP License v.3.0
 * VMS License.
 
-## Licencia de software de código abierto robustas
+### Licencia de software de código abierto robustas
 
 * Robustas fuertes
 
@@ -65,6 +65,4 @@ Las licencias de software de código abierto robustas débiles, con copyleft dé
 * CDDL.
 * EUPL.
 
-## Referencias
-
-"Licencia de software", Wikipedia. Disponible en: https://es.wikipedia.org/wiki/Licencia_de_software#Clasificaci%C3%B3n_de_las_licencias_de_software (Acceso: March 1, 2023). 
+#Licencias libres
