@@ -78,3 +78,5 @@ La Licencia Pública General de GNU, llamada comúnmente GPL de GNU, se usa para
 La Licencia Pública General Reducida de GNU (LGPL de GNU) se usa para algunas —pero no para todas— las bibliotecas de GNU. La última es la versión 3. Ejemplos:
 * [Ethereum](https://github.com/ethereum/go-ethereum)
 * [PHPMailer](https://github.com/PHPMailer/PHPMailer)
+
+# ANÁLISIS DE DOCUMENTACIÓN LIBRES
