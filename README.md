@@ -72,7 +72,7 @@ Las licencias de software de código abierto robustas débiles, con copyleft dé
 La Licencia Pública General de GNU, llamada comúnmente GPL de GNU, se usa para la mayoría de los programas de GNU y para más de la mitad de los paquetes de software libre. La última es la versión 3. Ejemplos:
 
 * [OpenRA](https://github.com/OpenRA/OpenRA)
-* [OpenDiablo2](https://github.com/OpenRA/OpenRA)
+* [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2)
 
 ## Licencia Pública General Reducida de GNU
 La Licencia Pública General Reducida de GNU (LGPL de GNU) se usa para algunas —pero no para todas— las bibliotecas de GNU. La última es la versión 3. Ejemplos:
