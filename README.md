@@ -15,11 +15,11 @@ Una licencia de software es un **contrato** entre el **licenciante** (autor/titu
 
 ## Tipos de licencias de software
 
-## Licencia de software de código cerrado
+# Licencia de software de código cerrado
 
 Este tipo de licencias, por lo general, no permiten que el software sea modificado, desensamblado, copiado o distribuido de formas no especificadas en la propia licencia (piratería de software), regula el número de copias que pueden ser instaladas e incluso los fines concretos para los cuales puede ser utilizado. La mayoría de estas licencias limitan fuertemente la responsabilidad derivada de fallos en el programa. 
 
-## Licencia de software de código abierto permisivas
+# Licencia de software de código abierto _permisivas_
 
 Se puede crear una obra derivada sin que esta tenga obligación de protección alguna. Ejemplos:
 
