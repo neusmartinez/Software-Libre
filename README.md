@@ -40,7 +40,7 @@ Se puede crear una obra derivada sin que esta tenga obligación de protección a
 
 ### Licencia de software de código abierto robustas
 
-* Robustas fuertes
+#### Robustas fuertes
 
 Las licencias de software de código abierto robustas fuertes o con copyleft fuerte, contienen una cláusula que obliga a que las obras derivadas o modificaciones que se realicen al software original se deban licenciar bajo los mismos términos y condiciones de la licencia original. Ejemplos:
 
@@ -54,7 +54,7 @@ Las licencias de software de código abierto robustas fuertes o con copyleft fue
 * Affero License v.2.0
 * OpenSSL License.
 
-* Robustas débiles
+#### Robustas débiles
 
 Las licencias de software de código abierto robustas débiles, con copyleft débil/suave o híbridas, contienen una cláusula que obliga a que las modificaciones que se realicen al software original se deban licenciar bajo los mismos términos y condiciones de la licencia original, pero que las obras derivadas que se puedan realizar de él puedan ser licenciadas bajo otros términos y condiciones distintas. Ejemplos:
 
@@ -65,4 +65,4 @@ Las licencias de software de código abierto robustas débiles, con copyleft dé
 * CDDL.
 * EUPL.
 
-#Licencias libres
+# LICENCIAS LIBRES
