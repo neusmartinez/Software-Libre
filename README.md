@@ -187,7 +187,11 @@ Saltando a otro campo del mundo internauta, el desarrollo de software para cloud
 
 # REFERENCIAS
 * "Software Libre", Wikipedia. Disponible en: https://es.wikipedia.org/wiki/Software_libre (Acceso: 3 Marzo, 2023).
+
 * "Licencia de Software", Wikipedia. Disponible en: https://es.wikipedia.org/wiki/Licencia_de_software (Acceso: 3 Marzo, 2023).
-* "Licencia de Software Libre", Wikipedia. Available at: https://es.wikipedia.org/wiki/Licencia_de_software_libre (Accessed: March 3, 2023).
-* "Licencias", GNU.org. Available at: https://www.gnu.org/licenses/licenses.es.html (Accessed: March 3, 2023).
-* "Lista de Licencias", GNU.org. Available at: https://www.gnu.org/licenses/license-list.html (Accessed: March 3, 2023). 
+
+* "Licencia de Software Libre", Wikipedia. Disponible en: https://es.wikipedia.org/wiki/Licencia_de_software_libre (Acceso: 3 Marzo, 2023).
+
+* "Licencias", GNU.org. Disponible en: https://www.gnu.org/licenses/licenses.es.html (Acceso: 3 Marzo, 2023).
+
+* "Lista de Licencias", GNU.org. Disponible en: https://www.gnu.org/licenses/license-list.html (Acceso: 3 Marzo, 2023). 
