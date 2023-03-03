@@ -86,5 +86,21 @@ La Licencia de Documentación Libre de GNU es una forma de copyleft pensada para
 
 # VENTAJAS DEL SOFTWARE LIBRE PARA LA SOCIEDAD
 ## En la administración pública
-* Defensa del interés general
-** El uso de software libre beneficia a la sociedad en su conjunto. Fomenta el crecimiento de la industria nacional de servicios y permite ahorrar divisas. La Administración Pública tiene cierta función de guía de la industria que la hace tener un gran impacto, que se considera que debe dirigirse a la creación de un ámbito tecnológico generador de riqueza nacional.
+
+### Defensa del interés general
+* El uso de software libre beneficia a la sociedad en su conjunto. Fomenta el crecimiento de la industria nacional de servicios y permite ahorrar divisas. La Administración Pública tiene cierta función de guía de la industria que la hace tener un gran impacto, que se considera que debe dirigirse a la creación de un ámbito tecnológico generador de riqueza nacional.
+
+### Transparencia
+* El uso de software libre permite que cualquier ciudadano pueda comprobar por sí mismo la integridad y seguridad de los programas que usa su administración. Esto es especialmente importante en la Administración electrónica y en los sistemas que manipulan datos sensibles.
+
+### Independencia tecnológica
+* El software libre, al garantizar el acceso al código fuente, permite elegir los proveedores de desarrollo, mantenimiento y soporte en un mercado de libre competencia. El software libre garantiza la libertad de elección de productos gracias a su modularidad, su disponibilidad en un gran número de plataformas y al uso de formatos de archivo abiertos, que permitan interoperar con independencia de estrategias comerciales.
+
+### Accesibilidad
+* El Estado debe garantizar la accesibilidad a los servicios desde una amplia variedad de plataformas, sin discriminar a los ciudadanos por usar un software determinado ni forzarlos a adquirir determinados productos. para ello es fundamental la utilización de formatos y estándares abiertos. El software libre puede ser traducido por la comunidad de usuarios de una lengua o por la propia Administración.
+
+### Seguridad
+* El modelo de seguridad del software libre se basa en la transparencia. La amplia base de usuarios y desarrolladores de estos programas garantizan además un tiempo de respuesta rápido ante incidencias de seguridad. La transparencia permite verificar mediante auditorías la ausencia de código maligno que pueda abrir puertas traseras en los programas.
+
+### Protección de la inversión
+La continuidad de los productos de software libre está garantizada por la disponibilidad del código fuente, que permite mantener los productos durante tiempo indefinido. También se protege la inversión en hardware al evitarse las actualizaciones forzosas, prolongando el ciclo de vida de los mismos. Los servicios sobre el software libre se ofrecen en un mercado de libre competencia, por lo que sus precios son menores a los ofrecidos por el mantenimiento y soporte de programas privativos.
