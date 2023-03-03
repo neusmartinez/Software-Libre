@@ -112,33 +112,32 @@ La inclusión de la gestión digital en el ámbito sanitario ha permitido transf
 La informatización de los servicios dirigidos a los pacientes requiere una gestión eficiente de los recursos tecnológicos. Es imprescindible una adaptación tecnológica de los sistemas de Información sanitarios con nuevos y mejores protocolos de comunicación, por lo que, en este sentido, el uso del software libre juega un papel fundamental, posibilitando el desarrollo colaborativo en red, su reutilización y disminuyendo los gastos económicos.
 
 ## Educación
+El software libre tiene los siguientes beneficios en la educación:
+
+1. Libertad para elegir el programa que cubra de mejor manera las necesidades educativas.
+
+2. Beneficio económico: Las licencias del software libre son completamente gratuitas, por lo que puede ser eliminado el pago en licencia de programas no libres e invertir el dinero en otra área.
 
 
-* Libertad para elegir el programa que cubra de mejor manera las necesidades educativas
+3. Uso por parte de los estudiantes de los mismos programas en casa y escuela, de forma legal
 
 
-* Beneficio económico: Las licencias del software libre son completamente gratuitas, por lo que puede ser eliminado el pago en licencia de programas no libres e invertir el dinero en otra área.
+4. Existencia de comunidades de intercambio educativo
 
 
-* Uso por parte de los estudiantes de los mismos programas en casa y escuela, de forma legal
+5. Desarrollo independiente de aplicaciones: Se favorece el crecimiento de desarrolladores “pequeños” de software creando así una amplia oferta de programas educativos libres.
 
 
-* Existencia de comunidades de intercambio educativo
+6. Conocimiento ampliado sobre la informática: El software libre permite que los estudiantes conozcan cómo trabajan los programas y fomenta el interés, la investigación y el aprendizaje de nuevos conceptos en el campo de la informática.
 
 
-* Desarrollo independiente de aplicaciones: Se favorece el crecimiento de desarrolladores “pequeños” de software creando así una amplia oferta de programas educativos libres.
+7. Diversidad de herramientas educativas en diversas áreas del conocimiento.
 
 
-* Conocimiento ampliado sobre la informática: El software libre permite que los estudiantes conozcan cómo trabajan los programas y fomenta el interés, la investigación y el aprendizaje de nuevos conceptos en el campo de la informática.
+8. La posibilidad de copiar y difundir el software, es una forma de evitar que la propia institución educativa lleve a sus alumnos y docentes a la realización de copias ilegales de software privativo incurriendo en la violación de la ley
 
 
-* Diversidad de herramientas educativas en diversas áreas del conocimiento.
-
-
-* La posibilidad de copiar y difundir el software, es una forma de evitar que la propia institución educativa lleve a sus alumnos y docentes a la realización de copias ilegales de software privativo incurriendo en la violación de la ley
-
-
-* Enseñando el software libre, las escuelas pueden formar ciudadanos preparados para vivir en una sociedad digital libre. Lo que implica la no dependencia del software privativo de las mega-corporaciones
+9. Enseñando el software libre, las escuelas pueden formar ciudadanos preparados para vivir en una sociedad digital libre. Lo que implica la no dependencia del software privativo de las mega-corporaciones
 
 
 ## En industria
