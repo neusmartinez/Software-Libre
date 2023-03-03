@@ -186,4 +186,8 @@ Cabe destacar el alto nivel de seguridad que proporciona el software libre debid
 Saltando a otro campo del mundo internauta, el desarrollo de software para cloud también se ha visto afectado de forma positiva por el software libre. Este último ha permitido la creación de repositorios, frameworks y útiles lenguajes de programación. Así mismo, las nuevas técnicas de inteligencia artificial, el internet de las cosas o el big data han sido impulsadas por el software libre.
 
 # REFERENCIAS
-"Software Libre", Wikipedia. Disponible en: https://es.wikipedia.org/wiki/Software_libre (Acceso: 3 Marzo, 2023). 
+* "Software Libre", Wikipedia. Disponible en: https://es.wikipedia.org/wiki/Software_libre (Acceso: 3 Marzo, 2023).
+* "Licencia de Software", Wikipedia. Disponible en: https://es.wikipedia.org/wiki/Licencia_de_software (Acceso: 3 Marzo, 2023).
+* "Licencia de Software Libre", Wikipedia. Available at: https://es.wikipedia.org/wiki/Licencia_de_software_libre (Accessed: March 3, 2023).
+* "Licencias", GNU.org. Available at: https://www.gnu.org/licenses/licenses.es.html (Accessed: March 3, 2023).
+* "Lista de Licencias", GNU.org. Available at: https://www.gnu.org/licenses/license-list.html (Accessed: March 3, 2023). 
