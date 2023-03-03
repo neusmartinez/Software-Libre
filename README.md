@@ -113,23 +113,74 @@ La informatización de los servicios dirigidos a los pacientes requiere una gest
 
 ## Educación
 
+
 ### Libertad para elegir el programa que cubra de mejor manera las necesidades educativas.
+
 
 ### Beneficio económico
 Las licencias del software libre son completamente gratuitas, por lo que puede ser eliminado el pago en licencia de programas no libres e invertir el dinero en otra área.
 
+
 ### Uso por parte de los estudiantes de los mismos programas en casa y escuela, de forma legal.
 
+
 ### Existencia de comunidades de intercambio educativo.
+
 
 ### Desarrollo independiente de aplicaciones.
 Se favorece el crecimiento de desarrolladores “pequeños” de software creando así una amplia oferta de programas educativos libres.
 
+
 ### Conocimiento ampliado sobre la informática.
 El software libre permite que los estudiantes conozcan cómo trabajan los programas y fomenta el interés, la investigación y el aprendizaje de nuevos conceptos en el campo de la informática.
 
+
 ### Diversidad de herramientas educativas en diversas áreas del conocimiento.
+
 
 ### La posibilidad de copiar y difundir el software, es una forma de evitar que la propia institución educativa lleve a sus alumnos y docentes a la realización de copias ilegales de software privativo incurriendo en la violación de la ley.
 
+
 ### Enseñando el software libre, las escuelas pueden formar ciudadanos preparados para vivir en una sociedad digital libre. Lo que implica la no dependencia del software privativo de las mega-corporaciones.
+
+
+## En industria
+En la Cuarta Revolución Industrial, los sectores productivos han experimentado un gran cambio. Este cambio se debe principalmente a la evolución de las tecnologías y su inclusión en dichos sectores. En esta Revolución Industrial existe lo que llamamos “Ecosistema de herramientas” de Software Libre y Abierto lo cual favorece el uso de las nuevas tecnologías permitiendo que las empresas sean más competitivas y rentables.
+
+Cada vez hay más empresas y organizaciones que usan el Software Libre para su gestión empresarial. Esto se debe a las grandes ventajas que tiene su uso en dichas empresas, como por ejemplo la reducción de costes, la libertad de uso y redistribución, la independencia tecnológica, el aumento de la flexibilidad y la personalización del código entre otras.
+
+En la actualidad, existen muchos proyectos en Software Libre para pequeñas y medianas Organizaciones.De hecho, un 98% de las grandes empresas lo usan, pero menos del 30% colaboran en su desarrollo lo cual no es adecuado si queremos que estos programas sigan evolucionando.
+
+## En ciencia
+En los últimos años, el desarrollo del software ha beneficiado en diversos campos de la ciencia.
+
+En la bioinformática ha sido beneficioso por la gran cantidad de información y datos que se manejan. Es por ello que muchos de estos softwares se enfocan en las bases de datos biológicas, el análisis de secuencias, anotación de genomas, medición de la biodiversidad entre otras cosas.
+
+El campo de la física cuenta con amplios recursos de software libre como programas para la mecánica de fluidos (Gerris Flow Solver) que permite resolver las ecuaciones de Navier-Stokes; la experimentación de dispersión de neutrones (McStas); investigación con la Teoría del funcional de la densidad del tiempo-dependiente y la Teoría del funcional de la densidad mediante la simulación de la dinámica de electrones de iones (Octopus) o la ilustración de los efectos de la relatividad especial en la apariencia de los objetos en movimiento (LightSpeed) entre otros.
+
+Respecto al campo de la química y al software libre cabe destacar algunos programas usados para la investigación en este ámbito. Algunos ejemplos son: un avanzado editor molecular (Avogadro o BKChem), tablas periódicas interactivas con toda la información necesaria (Kalzium) y un proyecto de colaboración con el fin de buscar, convertir, analizar o almacenar datos de cualquier área relacionada con la química.
+
+En el campo de las matemáticas el Software Libre ha contribuido en la resolución de problemas matemáticos como por ejemplo problemas con gráficos, matrices, permutaciones, geometría entre otros. Algunos de estos programas son CompliCalc, Geogebra, Yacas y Axiom.
+
+## En arte
+En cuanto al mundo del arte se refiere el software libre también ha permitido el desarrollo de diversos campos como el cine, los videojuegos, música o la fotografía entre otros.
+
+### Música
+
+Existen gran cantidad de programas que sirven de apoyo o de herramienta para múltiples tareas relacionadas con la música como puede ser la escritura de partituras, composición musical o su producción.
+
+Uno de los programas más conocidos y destacados a la hora de realizar grabación y edición de audio es audacity, el cual permite trabajar en la generación de tonos, en formas de ondas, aplicación de efectos y muchas más opciones permitiendo obtener resultados profesionales. También se puede destacar el uso de Ardour, el cual es ideal en el uso de grabaciones de alta calidad para doblajes e incluso eventos en vivo y aunque su funcionalidad principal es la edición y grabación también permite masterizar audio.
+
+En notación musical cabe destacar el uso de MuseScore el cual posee un gran abanico de funcionalidades, además de poder integrarse con otros programas. Por otra parte, no todos los programas relacionados con la música tienen como objetivo grabar y editar, Guitarix es un simulador para amplificador de guitarras. Su uso es ideal para presentaciones en vivo ya que la amplificación del sonido es muy rápida.
+
+### Cine
+A la hora de la realización de producciones cinematográficas el software libre cuenta con un papel destacado, como fue el uso de GNU/Linux en la realización del agujero negro de la película Interstellar de Christopher Nolan. Otro ejemplo fue el uso de Ubuntu y KDE a la hora de realizar los efectos especiales de la película El hobbit: la desolación de Smaug, por parte de Weta Digital. Hay que destacar también al programa Blender 3D, el cual es uno de los programas más populares dedicados al modelado, donde se ha llegado a usar en películas como Spider-man-2, Captain America: The Winter Soldier o Elephants Dream la cual es la primera película realizada íntegramente con software libre.
+
+## En internet
+El software libre ha supuesto un gran avance para el mundo de internet. Gracias a la creación del proyecto GNU y a la sociedad resultante del Movimiento del Software Libre impulsado por Richard Stallman.
+
+A día de hoy, la vasta mayoría de páginas web se alojan en servidores Linux utilizando MySQL como gestión de base de datos, PHP como lenguaje y Apache como servidor web http. Su uso implica grandes niveles de seguridad y rendimiento. Los sistemas LAMP (Linux, Apache, MySQL y PHP) permiten la creación y configuración de servidores web sin implicar un alto coste. A raíz de esto, numerosos proveedores han emergido un número considerable de proveedores de servicios, entre los que destacan los hostings y los proveedores cloud.
+
+Cabe destacar el alto nivel de seguridad que proporciona el software libre debido a las constantes actualizaciones e incorporaciones de nuevos parches de seguridad. A su vez, la mayoría de la infraestructura de internet está basada en protocolos amparados en el software libre; algunos ejemplos son la gestión del funcionamiento de los correos electrónicos (gracias a SendMail) o los servidores de nombre de dominio DNS (BIND).
+
+Saltando a otro campo del mundo internauta, el desarrollo de software para cloud también se ha visto afectado de forma positiva por el software libre. Este último ha permitido la creación de repositorios, frameworks y útiles lenguajes de programación. Así mismo, las nuevas técnicas de inteligencia artificial, el internet de las cosas o el big data han sido impulsadas por el software libre.
