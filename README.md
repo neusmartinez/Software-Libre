@@ -184,3 +184,6 @@ A día de hoy, la vasta mayoría de páginas web se alojan en servidores Linux u
 Cabe destacar el alto nivel de seguridad que proporciona el software libre debido a las constantes actualizaciones e incorporaciones de nuevos parches de seguridad. A su vez, la mayoría de la infraestructura de internet está basada en protocolos amparados en el software libre; algunos ejemplos son la gestión del funcionamiento de los correos electrónicos (gracias a SendMail) o los servidores de nombre de dominio DNS (BIND).
 
 Saltando a otro campo del mundo internauta, el desarrollo de software para cloud también se ha visto afectado de forma positiva por el software libre. Este último ha permitido la creación de repositorios, frameworks y útiles lenguajes de programación. Así mismo, las nuevas técnicas de inteligencia artificial, el internet de las cosas o el big data han sido impulsadas por el software libre.
+
+# REFERENCIAS
+"Software Libre", Wikipedia. Disponible en: https://es.wikipedia.org/wiki/Software_libre (Acceso: 3 Marzo, 2023). 
