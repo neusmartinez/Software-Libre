@@ -114,24 +114,24 @@ La informatización de los servicios dirigidos a los pacientes requiere una gest
 ## Educación
 
 
-### Libertad para elegir el programa que cubra de mejor manera las necesidades educativas
+#### Libertad para elegir el programa que cubra de mejor manera las necesidades educativas
 
 
-### Beneficio económico
+#### Beneficio económico
 Las licencias del software libre son completamente gratuitas, por lo que puede ser eliminado el pago en licencia de programas no libres e invertir el dinero en otra área.
 
 
-### Uso por parte de los estudiantes de los mismos programas en casa y escuela, de forma legal
+#### Uso por parte de los estudiantes de los mismos programas en casa y escuela, de forma legal
 
 
-### Existencia de comunidades de intercambio educativo
+#### Existencia de comunidades de intercambio educativo
 
 
-### Desarrollo independiente de aplicaciones
+#### Desarrollo independiente de aplicaciones
 Se favorece el crecimiento de desarrolladores “pequeños” de software creando así una amplia oferta de programas educativos libres.
 
 
-### Conocimiento ampliado sobre la informática
+#### Conocimiento ampliado sobre la informática
 El software libre permite que los estudiantes conozcan cómo trabajan los programas y fomenta el interés, la investigación y el aprendizaje de nuevos conceptos en el campo de la informática.
 
 
