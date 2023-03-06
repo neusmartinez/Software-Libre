@@ -189,12 +189,12 @@ A día de hoy, la mayoría de páginas web se alojan en servidores Linux utiliza
 Cabe destacar el alto nivel de seguridad que proporciona el software libre debido a las constantes actualizaciones e incorporaciones de nuevos parches de seguridad. El desarrollo de software para cloud también se ha visto afectado de forma positiva por el software libre. Este último ha permitido la creación de repositorios, frameworks y útiles lenguajes de programación. Así mismo, las nuevas técnicas de inteligencia artificial, el internet de las cosas o el big data han sido impulsadas por el software libre.
 
 # REFERENCIAS
-* "Software Libre", Wikipedia. Disponible en: https://es.wikipedia.org/wiki/Software_libre (Acceso: 3 Marzo, 2023).
+* "Software Libre", Wikipedia. Disponible en: https://es.wikipedia.org/wiki/Software_libre (Accedido: 3 Marzo, 2023).
 
-* "Licencia de Software", Wikipedia. Disponible en: https://es.wikipedia.org/wiki/Licencia_de_software (Acceso: 3 Marzo, 2023).
+* "Licencia de Software", Wikipedia. Disponible en: https://es.wikipedia.org/wiki/Licencia_de_software (Accedido: 3 Marzo, 2023).
 
-* "Licencia de Software Libre", Wikipedia. Disponible en: https://es.wikipedia.org/wiki/Licencia_de_software_libre (Acceso: 3 Marzo, 2023).
+* "Licencia de Software Libre", Wikipedia. Disponible en: https://es.wikipedia.org/wiki/Licencia_de_software_libre (Accedido: 3 Marzo, 2023).
 
-* "Licencias", GNU.org. Disponible en: https://www.gnu.org/licenses/licenses.es.html (Acceso: 3 Marzo, 2023).
+* "Licencias", GNU.org. Disponible en: https://www.gnu.org/licenses/licenses.es.html (Accedido: 3 Marzo, 2023).
 
-* "Lista de Licencias", GNU.org. Disponible en: https://www.gnu.org/licenses/license-list.html (Acceso: 3 Marzo, 2023). 
+* "Lista de Licencias", GNU.org. Disponible en: https://www.gnu.org/licenses/license-list.html (Accedido: 3 Marzo, 2023). 
